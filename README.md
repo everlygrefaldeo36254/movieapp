@@ -1,4 +1,4 @@
-Movie App
+
 Movie App is an Android application that utilizes MVVM architecture, Coroutines, LiveData, Dagger, and Hilt to provide a scalable and maintainable codebase.
 
 Architecture
